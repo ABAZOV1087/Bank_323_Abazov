@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="BankTests/BankTests.csproj" Id="91d6322a-30f8-4d5d-9e6d-04f7316bd888" />
   <Project Path="Bank_323_Abazov/Bank_323_Abazov.csproj" Id="c48636a5-7376-471a-9170-33f34d6235f4" />
 </Solution>
